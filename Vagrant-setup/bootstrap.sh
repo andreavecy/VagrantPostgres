@@ -1,8 +1,8 @@
 #!/bin/sh -e
 
 # Edit the following to change the name of the database user that will be created:
-APP_DB_USER=tranquilandia
-APP_DB_PASS=tranquilandia
+APP_DB_USER=database_username
+APP_DB_PASS=database_password
 
 # Edit the following to change the name of the database that is created (defaults to the user name)
 APP_DB_NAME=$APP_DB_USER
